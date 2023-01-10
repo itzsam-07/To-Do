@@ -1,2 +1,2 @@
-# To-Do
-To-Do Task 
+# ToDo-gui-python
+Build a simple To-Do GUI application using python
